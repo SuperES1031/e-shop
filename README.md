@@ -1,4 +1,4 @@
-## Maneli shop
+## E shop
 
 E-commerce shop with MVP functionality
 
